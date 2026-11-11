@@ -1,11 +1,11 @@
-# Detección de Fraude Financiero – Equipo 5
+# Detección de Fraude Financiero – Equipo 5 
 
 Proyecto de la materia TI2006B – Soporte analítico para la toma de decisiones 
 
 ## Objetivo
-Analizar datos de transacciones financieras para identificar patrones que ayuden a detectar posibles fraudes y apoyar la toma de decisiones.
+Analizar datos de transacciones financieras para identificar patrones que ayuden a detectar posibles fraudes y apoyar la toma de decisiones. 
 
-## Integrantes
+## Integrantes del equipo
 - Alejandro García Cantú
 - Javier Gómez Oaxaca
 - Denzel Cervantes Parra
