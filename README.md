@@ -8,7 +8,7 @@ Analizar datos de transacciones financieras para identificar patrones que ayuden
 ## Integrantes
 - Alejandro García Cantú
 - Javier Gómez Oaxaca
-- Denzel
+- Denzel Cervantes Parra
 - Víctor Manuel Castillo Gómez
 - Jessica Lizeth Salazar Muñoz
 
