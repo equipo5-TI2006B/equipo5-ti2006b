@@ -20,3 +20,9 @@ Analizar datos de transacciones financieras para identificar patrones que ayuden
 
 ## Estructura
 - `team/`: un archivo por integrante (primer commit de cada uno)
+- `modelo_dimensional/`: diseño del modelo dimensional (Kimball)
+- `datos/`: documentación de la tabla acondicionada
+
+## Entregables
+- [`modelo_dimensional/`](modelo_dimensional/): Modelo Dimensional Lógico (Kimball): respuestas A.1–A.6, diagrama del modelo estrella y documento con la definición de tablas de hechos y dimensiones.
+- [`datos/`](datos/): esquema de la tabla acondicionada (campos de la hoja Registros de FEMSA).
